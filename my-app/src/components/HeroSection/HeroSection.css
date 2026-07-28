@@ -1,0 +1,20 @@
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    min-height: 80vh;
+
+    padding: 0 80px;
+}
+
+.hero-left {
+    width: 50%;
+}
+
+.hero-right {
+    width: 50%;
+
+    display: flex;
+    justify-content: center;
+}

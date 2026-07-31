@@ -11,8 +11,7 @@ function HeroText(){
             </h1> 
 
             <p>
-                Take control of your finances with a powerful budgeting tool designed
-                designed to help you build better financial habits.
+                Simple budgeting. Purpose driven.
             </p>
 
             <button>

@@ -1,6 +1,7 @@
 import React from "react";
 import "./HeroSection.css";
 import HeroText from "../HeroText/HeroText";
+import BudgetPreview from "../BudgetPreview/BudgetPreview";
 
 function HeroSection() {
     
@@ -12,7 +13,7 @@ function HeroSection() {
             </div>
             
             <div className="hero-right">
-                Budget Preview
+                <BudgetPreview/>
             </div>
             
         </section>

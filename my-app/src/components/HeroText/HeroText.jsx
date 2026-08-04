@@ -12,7 +12,14 @@ function HeroText(){
 
             <p>
                 Simple budgeting. Purpose driven.
+                <br/>
+                <div style={{ fontWeight: 300, marginTop:'1px' }}>
+                    Trail assists you in keeping your finances well organized while providing you
+                    a simple way to budget—giving you a peace of mind while ensuring you stay purpose driven.
+                </div> 
             </p>
+
+            
 
             <button>
                 Get Started

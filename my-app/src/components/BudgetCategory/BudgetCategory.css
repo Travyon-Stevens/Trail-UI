@@ -1,0 +1,12 @@
+.budget-category {
+    margin-bottom: 20px;
+}
+
+.budget-category h3 {
+    margin: 0;
+}
+
+.budget-category p {
+    margin: 5px 0 0;
+    color: gray;
+}

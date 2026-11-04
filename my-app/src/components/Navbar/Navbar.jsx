@@ -4,7 +4,7 @@ import TrailLogo2 from "../../assets/TrailLogo2.jpg";
 
 function Navbar() {
     return(
-        <nav className="navbar">
+        <nav className="nav">
           <img src={TrailLogo2}/>
           <button>Sign In</button>
           <button>Sign Up</button>

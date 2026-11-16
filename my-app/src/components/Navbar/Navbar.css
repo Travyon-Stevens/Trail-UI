@@ -7,11 +7,15 @@
 }
 
 .navbar-logo {
-    width: 125px;
+   width: 125px;
    height: auto;
 }
 
 .navbar-signin {
     background-color: transparent;
     border: 1px solid #C0C0C0;
+    border-radius: 50px;
+    height: 35px;
+    width: 100px;
+
 }
